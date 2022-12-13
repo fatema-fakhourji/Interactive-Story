@@ -16,12 +16,12 @@ A very secret agent visited Karlie's home. He told her about her next mission. K
 
 **Option two:** Denies the mission. → **section 2**
 
-#S ection 2:
+#Section 2:
 Karlie thought about the people who have been killed by her father and all the mafia. She remembered her mom and wondered about the number of people who lost their families and their loved ones.
 
 **Option one;** Karlie is already traumatized by the death of her mother and does not want to join the mission. → **Section 4**
 
-**ption two:** Karlie called the agent and accepted the mission. → **Section 3**
+**Option two:** Karlie called the agent and accepted the mission. → **Section 3**
 
 # Section 3:
 Karlie went to the auction. She sat at the table with her father and many other mafia bosses. Her father for sure did not recognize her. She was a kid when she ran away. Karlie was so furious. She was thinking about killing her father,  getting her revenge, and finally letting her mother’s soul rest in peace. Karlie put her hands on her gun and slowly was moving gun out:
