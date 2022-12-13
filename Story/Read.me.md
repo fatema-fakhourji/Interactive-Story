@@ -1,3 +1,8 @@
+                                             IF YOU WANT TO PLAY THE GAME OPEN introduction.html
+
+
+
+
 ### Evelyn is the only daughter of Liam Ronova, the boss of a mafia called Cara. Cara is one of the most dangerous mafias on Planet X. They killed a lot of people and many are suffering because of them. Evelyn’s mother once told the police about a secret mission that was planned by Cara’s mafia. The mission went unsuccessful, and many of the mafia members were killed. Liam tried a lot to know who told the police about this secret mission. When he realized that his wife did so, he decided to kill her. 
 ### Evelyn was playing hide and seek with her mom. She hid in the closet when her father entered the room and killed her mother. She was terrified. She screamed. Her father heard her, and he tried to kill her. She ran very fast, trying to find an escape and survive. In the end, she did. 
 ### Evelyn was found homeless on the streets when a very secret police agency found her. They decided to adopt her and train her for their future missions. They changed her name to Karlie.
