@@ -16,7 +16,7 @@ A very secret agent visited Karlie's home. He told her about her next mission. K
 
 **Option two:** Denies the mission. → **section 2**
 
-#Section 2:
+# Section 2:
 Karlie thought about the people who have been killed by her father and all the mafia. She remembered her mom and wondered about the number of people who lost their families and their loved ones.
 
 **Option one;** Karlie is already traumatized by the death of her mother and does not want to join the mission. → **Section 4**
