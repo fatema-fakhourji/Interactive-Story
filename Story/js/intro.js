@@ -182,3 +182,11 @@ function myFunction11() {
 
 
 }
+function myFunction12() {
+
+
+
+  window.location.href = "introduction.html"
+
+
+}
